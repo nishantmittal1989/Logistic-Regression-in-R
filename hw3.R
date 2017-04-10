@@ -1,4 +1,3 @@
-#nmittal30
 library(ggplot2)
 
 #each column or each vector is one training example
